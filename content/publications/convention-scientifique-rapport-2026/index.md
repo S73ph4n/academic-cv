@@ -8,55 +8,6 @@ title: 'Rapport de la Convention scientifique : De la fabrique des connaissances
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Convention Scientifique
-- Agathe Navailles
-- Alexandre Sierk
-- Alexia Angeli
-- Amandine Gabriac
-- Anne Jacquelin
-- Aurélia Ditto
-- Aurélia Hallier-Heurteux
-- Aymeric Delefosse
-- Baptiste Sandoz
-- Benjamin Nguyen
-- Cédric Bernard
-- Charles Hours
-- Claude Rodriguez Ghidaglia
-- Edwige Biessou
-- Éléa Proust
-- Émilie Chevalier
-- Fabrice Joulia
-- Florian Labaude
-- France Gerbal-Medalle
-- Guillaume Collin
-- Hayet Bensalah Pigeon
-- Isaac Theurkauff
-- Jérôme Garnier
-- Léa Perrod Nollot
-- Linda Mfenjou
-- Lucie Desage
-- Lucile Ottolini
-- Marie-Charlotte Renaux Torres
-- Marie-Claude Marsolier
-- Marina Cabada
-- Marwa Sawan
-- Matthieu Elineau
-- Matthieu Patrizio
-- Mélissa Poulain
-- Mody Diaw
-- Morgane Garreau
-- Paul-Hadrien Despret
-- Raphaël Hasard
-- Sarah Joubaire
-- Séverine Paillard
-- Sophie Bernard
-- Stéphan Pissot
-- Sylvie Jolly
-- Typhaine Filhol
-- Valentine Bellet
-- Victor Coulon
-- Virginie Ganaye-Dugard
-- Yves Mercadier
-- Zhor Raimi
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
